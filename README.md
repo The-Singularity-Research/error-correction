@@ -18,6 +18,18 @@ One well known example of error correction is the Shor code on nine qubits. It i
 This quantum circuit diagram was rendered in [quantikz](https://ctan.org/pkg/quantikz?lang=en), a TikZ library. If you are a Donald Knuth fan and love LaTeX as much as we do, check it out!
 
 
+## Stabilizer Codes and Graph States
+
+Stabilizer codes and graph states can be shown to be equivalent. Graph states can be defined in terms of graphs, such as the following:
+
+![Graph](graph_state_graph.png)
+
+The resulting quantum circuit diagram can be visualized in Qiskit:
+
+![Graph State](graph_state.png)
+
+These kinds of codes are useful in many applications such as error correction, efficient simulation of certain classes of quantum circuits, one-way or measurement based quantum computing, and various others. 
+
 ## Interested in contributing to this project? 
 - Reach out via email to: thesingularity.research@gmail.com
 - Be sure to include "Hacking the Universe" in the subject line, so that the email doesn't get overlooked. 
