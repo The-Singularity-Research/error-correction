@@ -3,6 +3,12 @@ This repo contains a Jupyter notebook focused on quantum error correction, stabi
 
 ---
 
+## The Notebook
+
+[Interactive Jupyter Notebook in Binder](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/18b3d6a89bb8d7d22b9a4b179ff657e336882adc?filepath=error_correction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/master?filepath=error_correction.ipynb)
+
+
 ## The Shor Code
 
 One well known example of error correction is the Shor code on nine qubits. It is capable of correcting arbitrary qubit errors. The circuit that prepares this state can be seen below. 
@@ -11,11 +17,6 @@ One well known example of error correction is the Shor code on nine qubits. It i
 
 This quantum circuit diagram was rendered in [quantikz](https://ctan.org/pkg/quantikz?lang=en), a TikZ library. If you are a Donald Knuth fan and love LaTeX as much as we do, check it out!
 
-
-## The Notebook
-
-[Interactive Jupyter Notebook in Binder](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/18b3d6a89bb8d7d22b9a4b179ff657e336882adc?filepath=error_correction.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/master?filepath=error_correction.ipynb)
 
 ## Interested in contributing to this project? 
 - Reach out via email to: thesingularity.research@gmail.com
