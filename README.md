@@ -3,6 +3,11 @@ This repo contains a Jupyter notebook focused on quantum error correction, stabi
 
 ---
 
+## The Notebook
+
+[Interactive Jupyter Notebook in Binder](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/18b3d6a89bb8d7d22b9a4b179ff657e336882adc?filepath=error_correction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/error-correction/master?filepath=error_correction.ipynb)
+
 ## Interested in contributing to this project? 
 - Reach out via email to: thesingularity.research@gmail.com
 - Be sure to include "Hacking the Universe" in the subject line, so that the email doesn't get overlooked. 
