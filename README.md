@@ -9,7 +9,7 @@ One well known example of error correction is the Shor code on nine qubits. It i
 
 ![Shor Code](Shor_code_v2.png)
 
-This quantum circuit diagram was rendered in [quantikz](https://ctan.org/pkg/quantikz?lang=en), a TikZ library. If you are a Donal Knuth fan and love LaTeX as much as we do, check it out!
+This quantum circuit diagram was rendered in [quantikz](https://ctan.org/pkg/quantikz?lang=en), a TikZ library. If you are a Donald Knuth fan and love LaTeX as much as we do, check it out!
 
 
 ## The Notebook
