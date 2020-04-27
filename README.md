@@ -1,4 +1,4 @@
-# error-correction
+# Error Correction
 This repo contains a Jupyter notebook focused on quantum error correction, stabilizer codes, and graph states. These are used in creating quantum algorithms that are meant to be robust against noise. Graph states can also be used in quantum cryptography and as a tool for verifying error correction on quantum computers, since certain classes of graph codes can be efficiently simulated on classical computers. 
 
 ---
